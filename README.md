@@ -1,2 +1,2 @@
 # lydiakp.github.io
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
