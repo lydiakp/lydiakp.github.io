@@ -6,4 +6,4 @@ Lydia is a student at Michigan Tech, currently pursuing a major in Data Science.
 
 [Email Me!](lydiakpeterson@gmail.com)
 <br>
-[Download Resume](Resume-general.pdf)
+[Download Resume](Resume - general.pdf)
