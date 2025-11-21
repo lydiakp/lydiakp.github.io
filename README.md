@@ -4,7 +4,7 @@
 <br>
 Lydia is a student at Michigan Tech, currently pursuing a major in Data Science. She enjoys reading, playing music, and being outside.
 <br>
-[About Me!]()
+[About Me!](AboutMe.md)
 <br>
 [Github page](https://github.com/lydiakp)
 <br>
