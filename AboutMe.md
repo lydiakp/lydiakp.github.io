@@ -1,7 +1,3 @@
-layout: page
-title: About Me
-permalink: lydiakp.github.io/aboutMe
-
 
 ![](IMG_20240930_173856.jpg)
 <br>
