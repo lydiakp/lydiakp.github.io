@@ -8,5 +8,6 @@
 [Github page](https://github.com/lydiakp)
 <br>
 [Email Me!](mailto:lydiakpeterson@gmail.com)
+<mailto:lydiakpeterson@gmail.com>
 <br>
 [Download Resume](Resume - general.pdf)
